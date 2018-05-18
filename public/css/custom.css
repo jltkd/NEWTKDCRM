@@ -1,0 +1,21 @@
+.header-logo {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+}
+h1.single-title {
+    display: flex;
+    align-items: end;
+}
+i.active-icon {
+    font-size: .7rem;
+    color: #28a745;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+i.inactive-icon {
+    font-size: .7rem;
+    color: #dc3545;
+    margin-top: 7px;
+    margin-left: 5px;
+}
